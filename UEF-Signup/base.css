@@ -1,0 +1,33 @@
+ .btn-solid {
+    width: 100%;
+    padding: 17px;
+    background: #454544;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+.btn-white {
+    width: 100%;
+    margin-top: 20px;
+    padding: 14px 15px;
+    border-radius: 10px;
+    border: 1.5px solid #ccc;
+    outline: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: #454544;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    cursor: pointer;
+  }
